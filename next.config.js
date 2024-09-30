@@ -3,7 +3,7 @@ const path = require('path')
 module.exports = {
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
-    distDir: 'build',
+
   },
   images: {
     remotePatterns: [
@@ -20,3 +20,6 @@ module.exports = {
     ],
   },
 }
+module.exports = {
+  distDir: 'build',
+};
