@@ -1,14 +1,11 @@
 {
-  "homepage": "https://Kavindu54321.github.io/my-portfolio",
+  "homepage": "#",
   "name": "my-portfolio",
   "description": "Portfolio of Kavindu",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "export": "next export",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

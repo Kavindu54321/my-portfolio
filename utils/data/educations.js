@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
+    duration: "2023 - Present",
     institution: "SLTC Reseach University of Sri Lanka",
   },
   {
     id: 2,
-    title: "ICT and English Diploma(peason)",
-    duration: "2020 - 2023",
+    title: "Information Technology and English Diploma(peason)",
+    duration: "2022 - 2024",
     institution: "E Soft Metro Campus of Sri Lanka",
   },
   {
     id: 3,
-    title: "front end Development and python Certificate",
-    duration: "2020 - 2023",
+    title: "Front end Development and Python Certificate",
+    duration: "2023 - 2024",
     institution: "Moratuwa university of Sri Lanka",
   }
 ]

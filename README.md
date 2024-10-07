@@ -15,7 +15,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/image/Capture32.png)
 
 ## View live preview [here](#).
 
@@ -68,7 +68,7 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/my-portfolio.git
 
 cd developer-portfolio
 ```
