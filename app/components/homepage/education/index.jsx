@@ -87,17 +87,19 @@ function Education() {
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
       </div>
+     
       <div className="flex justify-center my-5 lg:py-8">
         <div className="flex  items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
           
-          <video src="VID-20240829-WA0006.mp4" autoPlay loop controls></video>
         
+             <video src="VID-20240829-WA0006.mp4" autoPlay loop muted></video>
            
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
          
         </div>
       </div>
+      
     </div>
   );
 };

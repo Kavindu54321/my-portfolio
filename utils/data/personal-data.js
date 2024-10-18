@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: '',
   leetcode: "",
   devUsername: " Kavindu54321",
-  resume: "#"
+  resume: ""
 }

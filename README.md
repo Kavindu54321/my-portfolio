@@ -116,7 +116,7 @@ Eg:
 ```javascript
 export const personalData = {
   name: "Kavindu",
-  profile: "/profile.png",
+  profile: "/Capture45.PNG",
   designation: "Full-Stack Software Developer",
   description: "My name is Kavindu Dananjaya....",
   email: "dananjayakavindu089@gmail.com",
